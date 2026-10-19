@@ -1,0 +1,33 @@
+# Original internship artifacts and sensitive working files do not belong here.
+data/
+private/
+internal/
+reports/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+*.pickle
+*.joblib
+*.pdf
+*.tex
+*.ipynb
+*.log
+*.zip
+.env
+.env.*
+*.pem
+*.key
+
+# Python and editor artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
